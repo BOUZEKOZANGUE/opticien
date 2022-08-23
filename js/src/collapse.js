@@ -1,7 +1,7 @@
 /**
  * --------------------------------------------------------------------------
  * Bootstrap (v4.3.1): collapse.js
- * Licensed under MIT (://github.com/twbs/bootstrap/blob/master/LICENSE)
+ * N-limited Bza
  * --------------------------------------------------------------------------
  */
 

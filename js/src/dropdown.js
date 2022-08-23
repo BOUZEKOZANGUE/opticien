@@ -1,7 +1,7 @@
 /**
  * --------------------------------------------------------------------------
  * Bootstrap (v4.3.1): dropdown.js
- * Licensed under MIT (://github.com/twbs/bootstrap/blob/master/LICENSE)
+ * N-limited Bza
  * --------------------------------------------------------------------------
  */
 
@@ -169,7 +169,6 @@ class Dropdown {
 
             // If boundary is not `scrollParent`, then set position to `static`
             // to allow the menu to "escape" the scroll parent's boundaries
-            // ://github.com/twbs/bootstrap/issues/24251
             if (this._config.boundary !== 'scrollParent') {
                 $(parent).addClass(ClassName.POSITION_STATIC)
             }
@@ -179,7 +178,7 @@ class Dropdown {
         // If this is a touch-enabled device we add extra
         // empty mouseover listeners to the body's immediate children;
         // only needed because of broken event delegation on iOS
-        // ://www.quirksmode.org/blog/archives/2014/02/mouse_event_bub.html
+
         if ('ontouchstart' in document.documentElement &&
             $(parent).closest(Selector.NAVBAR_NAV).length === 0) {
             $(document.body).children().on('mouseover', null, $.noop)
