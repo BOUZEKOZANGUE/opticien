@@ -6150,7 +6150,7 @@ a.meanmenu-reveal {
     content: "\e8d1"
 }
 
-.icofont-brand-fastrack:before {
+.icofont-brand-fatrack:before {
     content: "\e8d2"
 }
 
@@ -8790,7 +8790,7 @@ a.meanmenu-reveal {
     content: "\eb65"
 }
 
-.icofont-fast-food:before {
+.icofont-fat-food:before {
     content: "\eb66"
 }
 
@@ -11586,7 +11586,7 @@ a.meanmenu-reveal {
     content: "\ee20"
 }
 
-.icofont-fast-delivery:before {
+.icofont-fat-delivery:before {
     content: "\ee21"
 }
 
@@ -13898,7 +13898,7 @@ a.meanmenu-reveal {
 .fad,
 .fal,
 .far,
-.fas {
+.fa {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
     display: inline-block;
@@ -14003,7 +14003,7 @@ a.meanmenu-reveal {
 .fa.fa-pull-left,
 .fal.fa-pull-left,
 .far.fa-pull-left,
-.fas.fa-pull-left {
+.fa.fa-pull-left {
     margin-right: .3em
 }
 
@@ -14011,7 +14011,7 @@ a.meanmenu-reveal {
 .fa.fa-pull-right,
 .fal.fa-pull-right,
 .far.fa-pull-right,
-.fas.fa-pull-right {
+.fa.fa-pull-right {
     margin-left: .3em
 }
 
@@ -15879,11 +15879,11 @@ a.meanmenu-reveal {
     content: "\f6dc"
 }
 
-.fa-fast-backward:before {
+.fa-fat-backward:before {
     content: "\f049"
 }
 
-.fa-fast-forward:before {
+.fa-fat-forward:before {
     content: "\f050"
 }
 
@@ -18299,7 +18299,7 @@ a.meanmenu-reveal {
     content: "\f21a"
 }
 
-.fa-shipping-fast:before {
+.fa-shipping-fat:before {
     content: "\f48b"
 }
 
@@ -19761,12 +19761,12 @@ a.meanmenu-reveal {
 
 .fa,
 .far,
-.fas {
+.fa {
     font-family: "Font Awesome 5 Free"
 }
 
 .fa,
-.fas {
+.fa {
     font-weight: 900
 }
 
@@ -20267,7 +20267,7 @@ a.meanmenu-reveal {
     content: "\f048"
 }
 
-.fa-fast-backward:before {
+.fa-fat-backward:before {
     content: "\f049"
 }
 
@@ -20291,7 +20291,7 @@ a.meanmenu-reveal {
     content: "\f04e"
 }
 
-.fa-fast-forward:before {
+.fa-fat-forward:before {
     content: "\f050"
 }
 
