@@ -348,7 +348,7 @@
                 },
                 update: function(action, pos) {
                     if (slider.pagingCount > 1 && action === "add") {
-                        slider.controlNavScaffold.append($('<li><a href="#">' + slider.count + '</a></li>'));
+                        slider.controlNavScaffold.append($('<li><a href="404.html">' + slider.count + '</a></li>'));
                     } else if (slider.pagingCount === 1) {
                         slider.controlNavScaffold.find('li').remove();
                     } else {
@@ -411,7 +411,7 @@
             },
             pausePlay: {
                 setup: function() {
-                    var pausePlayScaffold = $('<div class="' + namespace + 'pauseplay"><a href="#"></a></div>');
+                    var pausePlayScaffold = $('<div class="' + namespace + 'pauseplay"><a href="404.html"></a></div>');
 
                     // CONTROLSCONTAINER:
                     if (slider.controlsContainer) {
